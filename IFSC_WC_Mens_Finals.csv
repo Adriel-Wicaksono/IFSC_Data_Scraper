@@ -1,0 +1,656 @@
+,Year,Competition,Rank,Name,Result
+0,2025,IFSC World Cup Wujiang,1,Sorato Anraku,TOP
+1,2025,IFSC World Cup Wujiang,2,Neo Suzuki,40+
+2,2025,IFSC World Cup Wujiang,3,Alberto Ginés López,39+
+3,2025,IFSC World Cup Wujiang,4,Satone Yoshida,33
+4,2025,IFSC World Cup Wujiang,5,Yufei Pan,32+
+5,2025,IFSC World Cup Wujiang,6,Luka Potocar,32
+6,2025,IFSC World Cup Wujiang,7,Filip Schenk,28+
+7,2025,IFSC World Cup Wujiang,8,Yannick Flohé,28+
+8,2025,IFSC World Cup Bali,1,Satone Yoshida,42
+9,2025,IFSC World Cup Bali,2,Max Bertone,41
+10,2025,IFSC World Cup Bali,3,Alberto Ginés López,39+
+11,2025,IFSC World Cup Bali,4,Yannick Flohé,30+
+12,2025,IFSC World Cup Bali,5,Dohyun Lee,30
+13,2025,IFSC World Cup Bali,6,Neo Suzuki,29+
+14,2025,IFSC World Cup Bali,7,Shion Omata,16+
+15,2025,IFSC World Cup Bali,8,Muhammad Rizky Syahrafli Simatupang,12
+16,2025,IFSC World Cup Innsbruck,1,Neo Suzuki,TOP
+17,2025,IFSC World Cup Innsbruck,2,Toby Roberts,TOP
+18,2025,IFSC World Cup Innsbruck,3,Alberto Ginés López,TOP
+19,2025,IFSC World Cup Innsbruck,4,Satone Yoshida,TOP
+20,2025,IFSC World Cup Innsbruck,5,Yannick Flohé,TOP
+21,2025,IFSC World Cup Innsbruck,6,Max Bertone,40
+22,2025,IFSC World Cup Innsbruck,7,Dohyun Lee,38+
+23,2025,IFSC World Cup Innsbruck,8,Jesse Grupper,33
+24,2025,IFSC World Cup Chamonix,1,Sorato Anraku,TOP
+25,2025,IFSC World Cup Chamonix,2,Alberto Ginés López,43+
+26,2025,IFSC World Cup Chamonix,3,Filip Schenk,43+
+27,2025,IFSC World Cup Chamonix,4,Satone Yoshida,39+
+28,2025,IFSC World Cup Chamonix,5,Colin Duffy,38+
+29,2025,IFSC World Cup Chamonix,6,Jonas Utelli,36
+30,2025,IFSC World Cup Chamonix,7,Luka Potocar,31
+31,2025,IFSC World Cup Chamonix,8,Shion Omata,29+
+32,2025,IFSC World Cup Comunidad de Madrid,1,Dohyun Lee,40+
+33,2025,IFSC World Cup Comunidad de Madrid,2,Alberto Ginés López,40
+34,2025,IFSC World Cup Comunidad de Madrid,3,Satone Yoshida,39+
+35,2025,IFSC World Cup Comunidad de Madrid,4,Colin Duffy,39+
+36,2025,IFSC World Cup Comunidad de Madrid,5,Sorato Anraku,39
+37,2025,IFSC World Cup Comunidad de Madrid,6,Shion Omata,38+
+38,2025,IFSC World Cup Comunidad de Madrid,7,Neo Suzuki,33
+39,2025,IFSC World Cup Comunidad de Madrid,8,Jakub Konecny,30+
+40,2025,IFSC World Cup Koper,1,Sorato Anraku,48+
+41,2025,IFSC World Cup Koper,2,Alberto Ginés López,47+
+42,2025,IFSC World Cup Koper,3,Toby Roberts,46+
+43,2025,IFSC World Cup Koper,4,Satone Yoshida,45
+44,2025,IFSC World Cup Koper,5,Jakob Schubert,43
+45,2025,IFSC World Cup Koper,6,Putra Tri Ramadani,40+
+46,2025,IFSC World Cup Koper,7,Adam Ondra,35+
+47,2025,IFSC World Cup Koper,8,Neo Suzuki,10+
+48,2024,IFSC World Cup Wujiang,1,Toby Roberts,36+
+49,2024,IFSC World Cup Wujiang,2,Taisei Homma,36+
+50,2024,IFSC World Cup Wujiang,3,Sorato Anraku,32+
+51,2024,IFSC World Cup Wujiang,4,Zento Murashita,24+
+52,2024,IFSC World Cup Wujiang,5,Sascha Lehmann,24
+53,2024,IFSC World Cup Wujiang,6,Hannes Van Duysen,24
+54,2024,IFSC World Cup Wujiang,7,Shuta Tanaka,23+
+55,2024,IFSC World Cup Wujiang,8,Maximillian Milne,23+
+56,2024,IFSC World Cup Wujiang,9,Shion Omata,21+
+57,2024,IFSC World Cup Innsbruck,1,Jakob Schubert,45
+58,2024,IFSC World Cup Innsbruck,2,Alexander Megos,42+
+59,2024,IFSC World Cup Innsbruck,3,Toby Roberts,41+
+60,2024,IFSC World Cup Innsbruck,4,Colin Duffy,40+
+61,2024,IFSC World Cup Innsbruck,5,Shuta Tanaka,34+
+62,2024,IFSC World Cup Innsbruck,6,Taisei Homma,29
+63,2024,IFSC World Cup Innsbruck,7,Jonas Utelli,29
+64,2024,IFSC World Cup Innsbruck,8,Tomoa Narasaki,28+
+65,2024,IFSC World Cup Chamonix,1,Colin Duffy,42+
+66,2024,IFSC World Cup Chamonix,2,Sam Avezou,41+
+67,2024,IFSC World Cup Chamonix,3,Toby Roberts,39
+68,2024,IFSC World Cup Chamonix,4,Alberto Ginés López,38+
+69,2024,IFSC World Cup Chamonix,5,Shion Omata,38+
+70,2024,IFSC World Cup Chamonix,6,Adam Ondra,37+
+71,2024,IFSC World Cup Chamonix,7,Sascha Lehmann,36+
+72,2024,IFSC World Cup Chamonix,8,Guillermo Peinado Franganillo,31+
+73,2024,IFSC World Cup Briançon,1,Zento Murashita,47+
+74,2024,IFSC World Cup Briançon,2,Satone Yoshida,45
+75,2024,IFSC World Cup Briançon,3,Shion Omata,42+
+76,2024,IFSC World Cup Briançon,4,Max Bertone,42+
+77,2024,IFSC World Cup Briançon,5,Sebastian Halenke,42+
+78,2024,IFSC World Cup Briançon,6,Mototaka Ishizu,41+
+79,2024,IFSC World Cup Briançon,7,Shuta Tanaka,39
+80,2024,IFSC World Cup Briançon,8,Yuta Imaizumi,38+
+81,2024,IFSC World Cup Koper,1,Toby Roberts,40
+82,2024,IFSC World Cup Koper,2,Sorato Anraku,35
+83,2024,IFSC World Cup Koper,3,Sam Avezou,31+
+84,2024,IFSC World Cup Koper,4,Shion Omata,30+
+85,2024,IFSC World Cup Koper,5,Yannick Flohé,30+
+86,2024,IFSC World Cup Koper,6,Max Bertone,25+
+87,2024,IFSC World Cup Koper,7,Ao Yurikusa,16
+88,2024,IFSC World Cup Koper,8,Dohyun Lee,12+
+89,2024,IFSC World Cup Seoul,1,Sorato Anraku,45+
+90,2024,IFSC World Cup Seoul,2,Dohyun Lee,45+
+91,2024,IFSC World Cup Seoul,3,Shion Omata,35
+92,2024,IFSC World Cup Seoul,4,Paul Jenft,34+
+93,2024,IFSC World Cup Seoul,5,Sam Avezou,34+
+94,2024,IFSC World Cup Seoul,6,Yoshiyuki Ogata,32+
+95,2024,IFSC World Cup Seoul,7,Yuta Imaizumi,26+
+96,2024,IFSC World Cup Seoul,8,Taisei Homma,23
+97,2023,IFSC World Cup Innsbruck,1,Sascha Lehmann,44+
+98,2023,IFSC World Cup Innsbruck,2,Alexander Megos,44+
+99,2023,IFSC World Cup Innsbruck,3,Jakob Schubert,42+
+100,2023,IFSC World Cup Innsbruck,4,Sorato Anraku,42+
+101,2023,IFSC World Cup Innsbruck,5,Mejdi Schalck,42+
+102,2023,IFSC World Cup Innsbruck,6,Satone Yoshida,42+
+103,2023,IFSC World Cup Innsbruck,7,Masahiro Higuchi,42
+104,2023,IFSC World Cup Innsbruck,8,Alberto Ginés López,42
+105,2023,IFSC World Cup Innsbruck,9,Taisei Homma,40+
+106,2023,IFSC World Cup Villars,1,Jakob Schubert,42+
+107,2023,IFSC World Cup Villars,2,Adam Ondra,41+
+108,2023,IFSC World Cup Villars,3,Alexander Megos,40
+109,2023,IFSC World Cup Villars,4,Toby Roberts,39+
+110,2023,IFSC World Cup Villars,5,Colin Duffy,37+
+111,2023,IFSC World Cup Villars,6,Sorato Anraku,36+
+112,2023,IFSC World Cup Villars,7,Yufei Pan,34
+113,2023,IFSC World Cup Villars,8,Shion Omata,24+
+114,2023,IFSC World Cup Chamonix,1,Toby Roberts,TOP
+115,2023,IFSC World Cup Chamonix,2,Sam Avezou,50
+116,2023,IFSC World Cup Chamonix,3,Sorato Anraku,48
+117,2023,IFSC World Cup Chamonix,4,Alexander Megos,46+
+118,2023,IFSC World Cup Chamonix,5,Stefan Scherz,41
+119,2023,IFSC World Cup Chamonix,6,Colin Duffy,39+
+120,2023,IFSC World Cup Chamonix,7,Luka Potocar,39+
+121,2023,IFSC World Cup Chamonix,8,Dohyun Lee,39
+122,2023,IFSC World Cup Briançon,1,Sorato Anraku,TOP
+123,2023,IFSC World Cup Briançon,2,Taisei Homma,49+
+124,2023,IFSC World Cup Briançon,3,Satone Yoshida,49+
+125,2023,IFSC World Cup Briançon,4,Yoshiyuki Ogata,49
+126,2023,IFSC World Cup Briançon,5,Shion Omata,44+
+127,2023,IFSC World Cup Briançon,6,Masahiro Higuchi,40+
+128,2023,IFSC World Cup Briançon,7,Hannes Puman,39
+129,2023,IFSC World Cup Briançon,8,Haruki Uemura,37+
+130,2023,IFSC World Cup Koper,1,Sorato Anraku,TOP
+131,2023,IFSC World Cup Koper,2,Jesse Grupper,42+
+132,2023,IFSC World Cup Koper,3,Alberto Ginés López,23
+133,2023,IFSC World Cup Koper,4,Toby Roberts,21+
+134,2023,IFSC World Cup Koper,5,Alexander Megos,21+
+135,2023,IFSC World Cup Koper,6,Yannick Flohé,21
+136,2023,IFSC World Cup Koper,7,Sam Avezou,20+
+137,2023,IFSC World Cup Koper,8,Luka Potocar,18+
+138,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",1,Sascha Lehmann,Top
+139,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",2,Yufei Pan,Top
+140,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",3,Alexander Megos,Top
+141,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",4,Domen Skofic,39+
+142,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",5,Meichi Narasaki,39+
+143,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",6,Tomoa Narasaki,34+
+144,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",7,Yuki Hada,22
+145,2019,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",8,Kokoro Fujii,8
+146,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",1,Adam Ondra,47+
+147,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",2,Alexander Megos,44
+148,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",3,Jakob Schubert,43+
+149,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",4,William Bosi,39+
+150,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",5,Alberto Ginés López,33+
+151,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",6,Martin Stranik,31+
+152,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",7,Sean Mccoll,25+
+153,2019,"IFSC Climbing Worldcup (L, S) - Chamonix (FRA)",8,Kai Harada,22
+154,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Hidemasa Nishida,39+
+155,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Hiroto Shimizu,38+
+156,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Shuta Tanaka,38+
+157,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),4,William Bosi,38
+158,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Sean Mccoll,38
+159,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Sean Bailey,34+
+160,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Domen Skofic,34+
+161,2019,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Marcello Bombardi,34+
+162,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),1,Adam Ondra,Top
+163,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),2,Kai Harada,32
+164,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),3,Alberto Ginés López,31.5+
+165,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),4,Sean Mccoll,30+
+166,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),5,Kokoro Fujii,27+
+167,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),6,Stefano Ghisolfi,25+
+168,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),7,Jakob Schubert,12+
+169,2019,IFSC Climbing Worldcup (L) - Kranj (SLO),8,Martin Stranik,12+
+170,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",1,Adam Ondra,Top
+171,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",2,Taisei Homma,Top
+172,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",3,Tomoa Narasaki,Top
+173,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",4,Kai Harada,31+
+174,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",5,Alberto Ginés López,29+
+175,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",6,Meichi Narasaki,26
+176,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",7,Jesse Grupper,25+
+177,2019,"IFSC Climbing Worldcup (L, S) - Xiamen (CHN)",8,Sean Bailey,23+
+178,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",1,Jakob Schubert,38+
+179,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",2,Romain Desgranges,38+
+180,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",3,Tomoa Narasaki,33+
+181,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",4,Stefano Ghisolfi,33+
+182,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",5,Max Rudigier,32+
+183,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",6,Hyunbin Min,22+
+184,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",7,Domen Skofic,22+
+185,2018,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",8,Yuki Hada,22+
+186,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",1,Stefano Ghisolfi,Top
+187,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",2,Jakob Schubert,48+
+188,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",3,Alexander Megos,46+
+189,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",4,Domen Skofic,46+
+190,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",5,William Bosi,43+
+191,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",6,Shuta Tanaka,43+
+192,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",7,Taisei Homma,40+
+193,2018,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",8,Sascha Lehmann,30+
+194,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Alexander Megos,45+
+195,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Romain Desgranges,43
+196,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Domen Skofic,42+
+197,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Jakob Schubert,42+
+198,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Stefano Ghisolfi,41+
+199,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Thomas Joannes,34+
+200,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Sascha Lehmann,32
+201,2018,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Hiroto Shimizu,28+
+202,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",1,Jakob Schubert,44+
+203,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",2,Stefano Ghisolfi,41+
+204,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",3,Domen Skofic,41
+205,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",4,Adam Ondra,41
+206,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",5,Shuta Tanaka,40+
+207,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",6,Sascha Lehmann,38+
+208,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",7,Alberto Ginés López,32+
+209,2018,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",8,Hyunbin Min,23+
+210,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",1,Romain Desgranges,41
+211,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",2,Domen Skofic,37
+212,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",3,Fedir Samoilov,35+
+213,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",4,Jan Hojer,35+
+214,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",5,Yuki Hada,35
+215,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",6,Christoph Hanke,34
+216,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",7,Jorg Verhoeven,33+
+217,2017,"IFSC Climbing Worldcup (L,S) - Villars (SUI)",8,Sean Bailey,32
+218,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),1,Marcello Bombardi,Top
+219,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),2,Keiichiro Korenaga,Top
+220,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),3,Yuki Hada,Top
+221,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),4,Romain Desgranges,Top
+222,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),5,Loïc Timmermans,42+
+223,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),6,Sean Mccoll,42
+224,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),7,Stefano Ghisolfi,40+
+225,2017,IFSC Climbing Worldcup (L) - Chamonix (FRA),8,Yuval Shemla,35+
+226,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Romain Desgranges,41
+227,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Sean Mccoll,39
+228,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Stefano Ghisolfi,35
+229,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Masahiro Higuchi,29
+230,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Sean Bailey,28+
+231,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Marcello Bombardi,27
+232,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Naoki Shimatani,22.5
+233,2017,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Sebastian Halenke,13+
+234,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",1,Jakob Schubert,39
+235,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",2,Adam Ondra,38+
+236,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",3,Max Rudigier,38+
+237,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",4,Yoshiyuki Ogata,34+
+238,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",5,Keiichiro Korenaga,33+
+239,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",6,Thomas Joannes,26+
+240,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",7,Hannes Puman,26
+241,2017,"IFSC Climbing Worldcup (L,S) - Arco (ITA)",8,Alexander Megos,11+
+242,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",1,Domen Skofic,51
+243,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",2,Stefano Ghisolfi,48+
+244,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",3,Jakob Schubert,48
+245,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",4,Gautier Supper,48
+246,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",5,Romain Desgranges,47
+247,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",6,Sebastian Halenke,46+
+248,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",7,Sean Mccoll,46+
+249,2016,"IFSC Climbing Worldcup (L,S) -Chamonix (FRA)",8,Francesco Vettorata,43+
+250,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",1,Sean Mccoll,28+
+251,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",2,Keiichiro Korenaga,25+
+252,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",3,Thomas Joannes,25+
+253,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",4,Sean Bailey,24+
+254,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",5,Urban Primozic,22
+255,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",6,Jakob Schubert,19
+256,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",7,Masahiro Higuchi,19
+257,2016,"IFSC Climbing Worldcup (L, S) - Villars (SUI)",8,Kokoro Fujii,17
+258,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Domen Skofic,37+
+259,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Romain Desgranges,37
+260,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Sean Mccoll,35+
+261,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Gautier Supper,34
+262,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Masahiro Higuchi,24+
+263,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Sascha Lehmann,24
+264,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Urban Primozic,20+
+265,2016,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Jakob Schubert,16
+266,2016,IFSC Climbing Worldcup (L) - Imst (AUT),1,Domen Skofic,53+
+267,2016,IFSC Climbing Worldcup (L) - Imst (AUT),2,Jakob Schubert,53+
+268,2016,IFSC Climbing Worldcup (L) - Imst (AUT),3,Gautier Supper,50
+269,2016,IFSC Climbing Worldcup (L) - Imst (AUT),4,Romain Desgranges,49+
+270,2016,IFSC Climbing Worldcup (L) - Imst (AUT),5,Sebastian Halenke,49+
+271,2016,IFSC Climbing Worldcup (L) - Imst (AUT),6,Stefano Ghisolfi,45+
+272,2016,IFSC Climbing Worldcup (L) - Imst (AUT),7,Ramón Julian  Puigblanque,43+
+273,2016,IFSC Climbing Worldcup (L) - Imst (AUT),8,Hanwool Kim,33
+274,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",1,Romain Desgranges,44+
+275,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",2,Jakob Schubert,44+
+276,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",3,Dmitrii Fakirianov,42
+277,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",4,Domen Skofic,39+
+278,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",5,Adam Ondra,39+
+279,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",6,Sebastian Halenke,34+
+280,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",7,Francesco Vettorata,32+
+281,2016,"IFSC Climbing Worldcup (L, S) - Arco (ITA)",8,Ramón Julian  Puigblanque,30+
+282,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",1,Ramón Julian  Puigblanque,53+
+283,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",2,Adam Ondra,52+
+284,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",3,Sebastian Halenke,52
+285,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",4,Romain Desgranges,51+
+286,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",5,Gautier Supper,43+
+287,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",6,Jakob Schubert,39+
+288,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",7,Stefano Ghisolfi,38+
+289,2015,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",8,Dmitrii Fakirianov,29+
+290,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Gautier Supper,49+
+291,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Minoru Nakano,43+
+292,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Jakob Schubert,42+
+293,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Dmitrii Fakirianov,42
+294,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Sean Mccoll,42
+295,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Stefano Ghisolfi,41
+296,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Adam Ondra,40
+297,2015,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Romain Desgranges,31
+298,2015,IFSC Climbing Worldcup (L) - Imst (AUT),1,Romain Desgranges,57+
+299,2015,IFSC Climbing Worldcup (L) - Imst (AUT),2,Jakob Schubert,57
+300,2015,IFSC Climbing Worldcup (L) - Imst (AUT),3,Domen Skofic,51+
+301,2015,IFSC Climbing Worldcup (L) - Imst (AUT),4,Adam Ondra,48.5+
+302,2015,IFSC Climbing Worldcup (L) - Imst (AUT),5,Gautier Supper,48+
+303,2015,IFSC Climbing Worldcup (L) - Imst (AUT),6,Sebastian Halenke,48+
+304,2015,IFSC Climbing Worldcup (L) - Imst (AUT),7,Urban Primozic,45+
+305,2015,IFSC Climbing Worldcup (L) - Imst (AUT),8,Thomas Joannes,34.5+
+306,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),1,Gautier Supper,43+
+307,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),2,Adam Ondra,40+
+308,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),3,Romain Desgranges,39+
+309,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),4,Jakob Schubert,36+
+310,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),5,Stefano Ghisolfi,35+
+311,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),6,Francesco Vettorata,34+
+312,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),7,Domen Skofic,29+
+313,2015,IFSC Climbing Worldcup (L) - Stavanger (NOR),8,Sebastian Halenke,23
+314,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),1,Domen Skofic,Top
+315,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),2,Jakob Schubert,50+
+316,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),3,Ramón Julian  Puigblanque,49+
+317,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),4,Gautier Supper,48+
+318,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),5,Stefano Ghisolfi,42
+319,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),6,Romain Desgranges,41
+320,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),7,Masahiro Higuchi,37+
+321,2015,IFSC Climbing Worldcup (L) - Puurs (BEL),8,Max Rudigier,29+
+322,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",1,Adam Ondra,35
+323,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",2,Domen Skofic,31
+324,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",3,Sean Mccoll,28+
+325,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",4,Ramón Julian  Puigblanque,26+
+326,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",5,Jakob Schubert,22
+327,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",6,Sebastian Halenke,21
+328,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",7,Gautier Supper,21
+329,2015,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",8,Minoru Nakano,10
+330,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),1,Adam Ondra,37+
+331,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),2,Sean Mccoll,37
+332,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),3,Jakob Schubert,36+
+333,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),4,Ramón Julian  Puigblanque,36+
+334,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),5,Domen Skofic,34+
+335,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),6,Romain Desgranges,33+
+336,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),7,Minoru Nakano,12+
+337,2015,IFSC Climbing Worldcup (L) - Kranj (SLO),8,Gautier Supper,12
+338,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",1,Jakob Schubert,32+
+339,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",2,Sean Mccoll,31+
+340,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",3,Gautier Supper,29
+341,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",4,Romain Desgranges,28
+342,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",5,Hyunbin Min,27+
+343,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",6,Domen Skofic,7+
+344,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",7,Stefano Ghisolfi,7+
+345,2014,"IFSC Climbing Worldcup (L, B, S) - Haiyang (CHN)",8,Keiichiro Korenaga,6
+346,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",1,Sachi Amma,28+
+347,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",2,Jakob Schubert,24+
+348,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",3,Domen Skofic,23+
+349,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",4,Thomas Ballet,19+
+350,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",5,Romain Desgranges,16+
+351,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",6,Ramón Julian  Puigblanque,16+
+352,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",7,Magnus Midtboe,16+
+353,2014,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",8,Urban Primozic,13+
+354,2014,IFSC Climbing Worldcup (L) - Imst (AUT),1,Adam Ondra,41+
+355,2014,IFSC Climbing Worldcup (L) - Imst (AUT),2,Sean Mccoll,39+
+356,2014,IFSC Climbing Worldcup (L) - Imst (AUT),3,Jakob Schubert,39
+357,2014,IFSC Climbing Worldcup (L) - Imst (AUT),4,Romain Desgranges,39
+358,2014,IFSC Climbing Worldcup (L) - Imst (AUT),5,Gautier Supper,38+
+359,2014,IFSC Climbing Worldcup (L) - Imst (AUT),6,Ramón Julian  Puigblanque,33+
+360,2014,IFSC Climbing Worldcup (L) - Imst (AUT),7,Domen Skofic,32
+361,2014,IFSC Climbing Worldcup (L) - Imst (AUT),8,Stefano Ghisolfi,4+
+362,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",1,Jakob Schubert,Top
+363,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",2,Domen Skofic,49
+364,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",3,Romain Desgranges,44+
+365,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",4,Ramón Julian  Puigblanque,44
+366,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",5,Sean Mccoll,41+
+367,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",6,Stefano Ghisolfi,32+
+368,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",7,Akito Matsushima,26+
+369,2014,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",8,Gautier Supper,14+
+370,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",1,Stefano Ghisolfi,36+
+371,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",2,Ramón Julian  Puigblanque,36
+372,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",3,Romain Desgranges,34+
+373,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",4,Domen Skofic,34+
+374,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",5,Sean Mccoll,33+
+375,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",6,Akito Matsushima,22+
+376,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",7,Mario Lechner,20
+377,2014,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",8,Gautier Supper,13
+378,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),1,Adam Ondra,49
+379,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),2,Sachi Amma,45+
+380,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),3,Domen Skofic,43+
+381,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),4,Jakob Schubert,43+
+382,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),5,Sean Mccoll,42
+383,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),6,Magnus Midtboe,17+
+384,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),7,Romain Desgranges,12+
+385,2014,IFSC Climbing Worldcup (L) - Inzai (JPN),8,Gautier Supper,12
+386,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),1,Adam Ondra,44+
+387,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),2,Sean Mccoll,38
+388,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),3,Sachi Amma,37+
+389,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),4,Domen Skofic,33+
+390,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),5,Jakob Schubert,32+
+391,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),6,Stefano Ghisolfi,32+
+392,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),7,Romain Desgranges,30+
+393,2014,IFSC Climbing Worldcup (L) - Kranj (SLO),8,Ramón Julian  Puigblanque,17+
+394,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Ramón Julian  Puigblanque,47+
+395,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Sachi Amma,46+
+396,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Cédric Lachat,39+
+397,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Domen Skofic,35+
+398,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Manuel Romain,35
+399,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Stefano Ghisolfi,33+
+400,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Gautier Supper,32+
+401,2013,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Thomas Tauporn,32+
+402,2013,IFSC Climbing Worldcup (L) - Imst (AUT),1,Sachi Amma,54+
+403,2013,IFSC Climbing Worldcup (L) - Imst (AUT),2,Jakob Schubert,54+
+404,2013,IFSC Climbing Worldcup (L) - Imst (AUT),3,Ramón Julian  Puigblanque,52+
+405,2013,IFSC Climbing Worldcup (L) - Imst (AUT),4,Hyunbin Min,51+
+406,2013,IFSC Climbing Worldcup (L) - Imst (AUT),5,Magnus Midtboe,44+
+407,2013,IFSC Climbing Worldcup (L) - Imst (AUT),6,Thomas Ballet,41+
+408,2013,IFSC Climbing Worldcup (L) - Imst (AUT),7,Gautier Supper,40
+409,2013,IFSC Climbing Worldcup (L) - Imst (AUT),8,Romain Desgranges,35
+410,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),1,Jakob Schubert,44
+411,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),2,Sachi Amma,39+
+412,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),3,Sean Mccoll,39+
+413,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),4,Romain Desgranges,38
+414,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),5,Manuel Romain,33+
+415,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),6,Magnus Midtboe,30+
+416,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),7,Ramón Julian  Puigblanque,30+
+417,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),8,Hyunbin Min,30+
+418,2013,IFSC Climbing Worldcup (L) - Puurs (BEL),9,Domen Skofic,30+
+419,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",1,Ramón Julian  Puigblanque,45
+420,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",2,Jakob Schubert,43+
+421,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",3,Hyunbin Min,37+
+422,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",4,Dmitrii Fakirianov,35+
+423,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",5,Romain Desgranges,31
+424,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",6,Gautier Supper,30+
+425,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",7,Manuel Romain,27
+426,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",8,Stefano Ghisolfi,23+
+427,2013,"IFSC Climbing Worldcup (L,S) - Perm (RUS)",9,Domen Skofic,22
+428,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",1,Sachi Amma,46+
+429,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",2,Hyunbin Min,46+
+430,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",3,Sean Mccoll,45+
+431,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",4,Jakob Schubert,45+
+432,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",5,Romain Desgranges,45
+433,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",6,Domen Skofic,43+
+434,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",7,Manuel Romain,43+
+435,2013,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",8,Stefano Ghisolfi,41+
+436,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",1,Sachi Amma,44+
+437,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",2,Sean Mccoll,43+
+438,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",3,Jakob Schubert,41+
+439,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",4,Romain Desgranges,41+
+440,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",5,Urban Primozic,40+
+441,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",6,Manuel Romain,38+
+442,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",7,Gautier Supper,38+
+443,2013,"IFSC Climbing Worldcup (L,S) - Wujiang (CHN)",8,Naoki Shimatani,29
+444,2013,IFSC Climbing Worldcup (L) - Valence (FRA),1,Adam Ondra,39+
+445,2013,IFSC Climbing Worldcup (L) - Valence (FRA),2,Sean Mccoll,34+
+446,2013,IFSC Climbing Worldcup (L) - Valence (FRA),3,Gautier Supper,33+
+447,2013,IFSC Climbing Worldcup (L) - Valence (FRA),4,Jakob Schubert,30+
+448,2013,IFSC Climbing Worldcup (L) - Valence (FRA),5,Romain Desgranges,30
+449,2013,IFSC Climbing Worldcup (L) - Valence (FRA),6,Sachi Amma,28+
+450,2013,IFSC Climbing Worldcup (L) - Valence (FRA),7,Hyunbin Min,24+
+451,2013,IFSC Climbing Worldcup (L) - Valence (FRA),8,Ramón Julian  Puigblanque,20
+452,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",1,Sachi Amma,43+
+453,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",2,Ramón Julian  Puigblanque,41+
+454,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",3,Sean Mccoll,40+
+455,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",4,Mikhail Chernikov,34+
+456,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",5,Magnus Midtboe,25+
+457,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",6,Thomas Ballet,25+
+458,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",7,Thomas Tauporn,20
+459,2012,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",8,Romain Desgranges,8+
+460,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Sachi Amma,53+
+461,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Sean Mccoll,50+
+462,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Jakob Schubert,49
+463,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Magnus Midtboe,48+
+464,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Romain Desgranges,44
+465,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Stefano Ghisolfi,44
+466,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Ramón Julian  Puigblanque,38+
+467,2012,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Hyunbin Min,15
+468,2012,IFSC Climbing Worldcup (L) - Imst (AUT),1,Jorg Verhoeven,47+
+469,2012,IFSC Climbing Worldcup (L) - Imst (AUT),2,Jakob Schubert,46+
+470,2012,IFSC Climbing Worldcup (L) - Imst (AUT),3,Sachi Amma,46+
+471,2012,IFSC Climbing Worldcup (L) - Imst (AUT),4,Magnus Midtboe,44.5+
+472,2012,IFSC Climbing Worldcup (L) - Imst (AUT),5,Ramón Julian  Puigblanque,35+
+473,2012,IFSC Climbing Worldcup (L) - Imst (AUT),6,Cédric Lachat,32+
+474,2012,IFSC Climbing Worldcup (L) - Imst (AUT),7,Romain Desgranges,27+
+475,2012,IFSC Climbing Worldcup (L) - Imst (AUT),8,Thomas Tauporn,27+
+476,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),1,Ramón Julian  Puigblanque,60+
+477,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),2,Cédric Lachat,57+
+478,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),3,Romain Desgranges,57+
+479,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),4,Sachi Amma,57+
+480,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),5,Sean Mccoll,55+
+481,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),6,Jorg Verhoeven,51+
+482,2012,IFSC Climbing Worldcup (L) - Puurs (BEL),7,Mario Lechner,45
+483,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),1,Ramón Julian  Puigblanque,Top
+484,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),2,Jakob Schubert,Top
+485,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),3,Romain Desgranges,70+
+486,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),4,Sachi Amma,70+
+487,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),5,Jorg Verhoeven,66+
+488,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),6,Mario Lechner,66+
+489,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),7,Sean Mccoll,61+
+490,2012,IFSC Climbing Worldcup (L) - Atlanta (USA),8,Domen Skofic,52
+491,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",1,Sean Mccoll,38+
+492,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",2,Jorg Verhoeven,33
+493,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",3,Stefano Ghisolfi,32
+494,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",4,Jakob Schubert,30+
+495,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",5,Romain Desgranges,29
+496,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",6,Hyunbin Min,26+
+497,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",7,Mario Lechner,24
+498,2012,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",8,Manuel Romain,19+
+499,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",1,Hyunbin Min,33
+500,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",2,Sachi Amma,32+
+501,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",3,Sean Mccoll,29+
+502,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",4,Manuel Romain,26+
+503,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",5,Ramón Julian  Puigblanque,25+
+504,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",6,Jakob Schubert,23+
+505,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",7,Magnus Midtboe,23+
+506,2012,"IFSC Climbing Worldcup (L,S) - Mokpo (KOR)",8,Stefano Ghisolfi,20+
+507,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",1,Jakob Schubert,Top
+508,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",2,Ramón Julian  Puigblanque,46+
+509,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",3,Magnus Midtboe,42-
+510,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",4,Sachi Amma,41
+511,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",5,Cédric Lachat,40-
+512,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",6,Romain Desgranges,38-
+513,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",7,Manuel Romain,38-
+514,2011,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",8,Valeriy Kryukov,33
+515,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),1,Jakob Schubert,57-
+516,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),2,Manuel Romain,53
+517,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),3,Ramón Julian  Puigblanque,51
+518,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),4,Sachi Amma,50-
+519,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),5,Hyunbin Min,49-
+520,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),6,Jorg Verhoeven,49-
+521,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),7,Romain Desgranges,34
+522,2011,IFSC Climbing Worldcup (L) - Briançon (FRA),8,Valeriy Kryukov,20-
+523,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",1,Jakob Schubert,Top
+524,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",2,Sachi Amma,Top
+525,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",3,Manuel Romain,Top
+526,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",4,Romain Desgranges,Top
+527,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",5,Ramón Julian  Puigblanque,45-
+528,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",6,Thomas Tauporn,42
+529,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",7,Akito Matsushima,34-
+530,2011,"IFSC Climbing Worldcup (L,S) - Xining (CHN)",8,Hyunbin Min,13
+531,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",1,Ramón Julian,Top
+532,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",2,Patxi,42-
+533,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",3,,41+
+534,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",4,,41-
+535,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",5,,38-
+536,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",6,,33+
+537,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",7,,33
+538,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",8,,32+
+539,2010,"IFSC Climbing Worldcup (L,S) - Chamonix (FRA)",9,,27
+540,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",1,,32-
+541,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",2,,32-
+542,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",3,,23-
+543,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",4,,22
+544,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",5,,21
+545,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",6,,21-
+546,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",7,Patxi,16-
+547,2010,"IFSC Climbing Worldcup (L, S) - Xining (CHN)",8,,15
+548,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",1,Patxi Usobiaga Lakunza,44+
+549,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",2,Ramón Julian  Puigblanque,40-
+550,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",3,Sachi Amma,40-
+551,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",4,Adam Ondra,40-
+552,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",5,David Lama,37-
+553,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",6,Jakob Schubert,36
+554,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",7,Sangwon Son,36-
+555,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",8,Hyunbin Min,32+
+556,2010,"IFSC Climbing Worldcup (L,S) - Chuncheon (KOR)",9,Romain Desgranges,24+
+557,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),1,Ramón Julian  Puigblanque,52-
+558,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),2,Jakob Schubert,52-
+559,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),3,Adam Ondra,49
+560,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),4,Gautier Supper,42
+561,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),5,Patxi Usobiaga Lakunza,41+
+562,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),6,David Lama,37
+563,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),7,Sachi Amma,37-
+564,2010,IFSC Climbing Worldcup (L) - Puurs (BEL),8,Klemen Becan,28-
+565,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",1,Patxi,48-
+566,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",2,,42+
+567,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",3,,41
+568,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",4,,40-
+569,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",5,,38-
+570,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",6,Ramón Julian,28
+571,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",7,,21
+572,2009,"IFSC Climbing Worldcup (S, L) - Chamonix (FRA)",8,,19-
+573,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),1,Adam Ondra,47+
+574,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),2,Ramón Julian  Puigblanque,47+
+575,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),3,Sachi Amma,43.5-
+576,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),4,Sean Mccoll,25
+577,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),5,Patxi Usobiaga Lakunza,21-
+578,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),6,Jakob Schubert,21-
+579,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),7,Magnus Midtboe,20+
+580,2009,IFSC Climbing Worldcup (L) - Barcelona (ESP),8,Thomas Tauporn,17-
+581,2009,IFSC Climbing Worldcup (L) - Imst (AUT),1,Adam Ondra,Top
+582,2009,IFSC Climbing Worldcup (L) - Imst (AUT),2,Patxi Usobiaga Lakunza,Top
+583,2009,IFSC Climbing Worldcup (L) - Imst (AUT),3,Sean Mccoll,48
+584,2009,IFSC Climbing Worldcup (L) - Imst (AUT),4,Sachi Amma,48-
+585,2009,IFSC Climbing Worldcup (L) - Imst (AUT),5,Manuel Romain,42+
+586,2009,IFSC Climbing Worldcup (L) - Imst (AUT),6,Klemen Becan,40+
+587,2009,IFSC Climbing Worldcup (L) - Imst (AUT),7,Jakob Schubert,35
+588,2009,IFSC Climbing Worldcup (L) - Imst (AUT),8,Ramón Julian  Puigblanque,15-
+589,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),1,,Top
+590,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),2,Patxi,56-
+591,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),3,,52+
+592,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),4,,52
+593,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),5,,52-
+594,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),6,,51+
+595,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),7,,49-
+596,2009,IFSC Climbing Worldcup (L) - Puurs (BEL),8,Ramón Julian,21+
+597,2009,IFSC Climbing Worldcup (L) - Brno (CZE),1,Jakob Schubert,42
+598,2009,IFSC Climbing Worldcup (L) - Brno (CZE),2,Patxi Usobiaga Lakunza,34-
+599,2009,IFSC Climbing Worldcup (L) - Brno (CZE),3,Tomás Mrázek,31
+600,2009,IFSC Climbing Worldcup (L) - Brno (CZE),4,Thomas Tauporn,29
+601,2009,IFSC Climbing Worldcup (L) - Brno (CZE),5,Ramón Julian  Puigblanque,26
+602,2009,IFSC Climbing Worldcup (L) - Brno (CZE),6,Akito Matsushima,26-
+603,2009,IFSC Climbing Worldcup (L) - Brno (CZE),7,David Lama,26-
+604,2009,IFSC Climbing Worldcup (L) - Brno (CZE),8,Manuel Romain,23+
+605,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),1,,47-
+606,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),2,,44
+607,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),3,,44-
+608,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),4,,42-
+609,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),5,,41
+610,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),6,Patxi,40+
+611,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),7,,37
+612,2009,IFSC Climbing Worldcup (L) - Kranj (SLO),8,,37-
+613,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),1,Tomás Mrázek,47
+614,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),2,Jakob Schubert,41-
+615,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),3,Sachi Amma,38-
+616,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),4,Patxi Usobiaga Lakunza,32-
+617,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),5,Manuel Romain,32-
+618,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),6,Magnus Midtboe,30-
+619,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),7,Ramón Julian  Puigblanque,11
+620,2008,IFSC Climbing Worldcup (S + L) - Qinghai (CHN),8,Jorg Verhoeven,10.5
+621,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),1,Jorg Verhoeven,42-
+622,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),2,Sachi Amma,37
+623,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),3,Klemen Becan,35
+624,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),4,David Lama,34.5+
+625,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),4,Tomás Mrázek,34.5+
+626,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),6,Ramón Julian  Puigblanque,34.5
+627,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),7,Magnus Midtboe,34.5
+628,2008,IFSC Climbing Worldcup (S+L) - Chamonix (FRA),8,Jakob Schubert,24-
+629,2008,IFSC Climbing Worldcup (L) - Bern (SUI),1,Patxi Usobiaga Lakunza,32-
+630,2008,IFSC Climbing Worldcup (L) - Bern (SUI),2,Jorg Verhoeven,31+
+631,2008,IFSC Climbing Worldcup (L) - Bern (SUI),3,Tomás Mrázek,31
+632,2008,IFSC Climbing Worldcup (L) - Bern (SUI),4,Sachi Amma,31
+633,2008,IFSC Climbing Worldcup (L) - Bern (SUI),5,Ramón Julian  Puigblanque,29-
+634,2008,IFSC Climbing Worldcup (L) - Bern (SUI),6,Romain Desgranges,28+
+635,2008,IFSC Climbing Worldcup (L) - Bern (SUI),7,Sean Mccoll,28-
+636,2008,IFSC Climbing Worldcup (L) - Bern (SUI),8,Valeriy Kryukov,20-
+637,2008,IFSC Climbing Worldcup (L) - Imst (AUT),1,David Lama,50+
+638,2008,IFSC Climbing Worldcup (L) - Imst (AUT),2,Ramón Julian  Puigblanque,50
+639,2008,IFSC Climbing Worldcup (L) - Imst (AUT),3,Sean Mccoll,41+
+640,2008,IFSC Climbing Worldcup (L) - Imst (AUT),4,Jorg Verhoeven,41-
+641,2008,IFSC Climbing Worldcup (L) - Imst (AUT),5,Cédric Lachat,40+
+642,2008,IFSC Climbing Worldcup (L) - Imst (AUT),5,Tomás Mrázek,40+
+643,2008,IFSC Climbing Worldcup (L) - Imst (AUT),7,Jakob Schubert,40-
+644,2008,IFSC Climbing Worldcup (L) - Imst (AUT),8,Klemen Becan,39+
+645,2008,IFSC Climbing Worldcup (L) - Imst (AUT),9,Valeriy Kryukov,39
+646,2008,IFSC Climbing Worldcup (L) - Imst (AUT),10,Thomas Ballet,25-
+647,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),1,Ramón Julian,48-
+648,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),2,,46-
+649,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),3,,41-
+650,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),4,,37-
+651,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),5,,37-
+652,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),6,,35+
+653,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),7,,31-
+654,2008,IFSC Climbing Worldcup (L+S) - Puurs (BEL),8,Patxi,25-
