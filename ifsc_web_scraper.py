@@ -1,13 +1,18 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import requests
 import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import StaleElementReferenceException
 import time
 
-service = Service('/opt/homebrew/bin/chromedriver')
-driver = webdriver.Chrome(service=service)
+
+# Creates a driver on the ifsc results website for dynamic web searching for Safari
+driver = webdriver.Safari()
+
+driver.get("https://ifsc.results.info")
+time.sleep(3)
 
 
 # Creates a list of all three dropdowns in the website
@@ -15,6 +20,7 @@ dropdowns = driver.find_elements(By.CSS_SELECTOR, "div.el-input.el-input--small.
 # Second dropdown
 events = dropdowns[1]
 events.click()
+
 
 # Dynamically selects all events from the second dropdown
 all_events = WebDriverWait(driver, 5).until(
@@ -44,10 +50,9 @@ for option in all_disciplines:
         option.click()
         break
 
-
-# First dropdown
 years = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007"]
 
+# First dropdown
 year = dropdowns[0]
 year.click()
 
@@ -86,9 +91,17 @@ for year in years:
         except Exception:
             continue
 
-df = []
+# Gathers data for all athletes in every round in all ifsc world cup competitions from 2007 to 2025
+qualifications = []
+semis = []
+finals = []
 
-# Gathers data for all finalists in all ifsc world cup competitions from 2007 to 2025
+desired_rounds = {
+    "Q": qualifications,
+    "S": semis,
+    "F": finals
+}
+
 for key, val in links_dict.items():
     comp_name_list = key.split(" ")
     comp_name = " ".join(comp_name_list[:-1]) #Comp Name
@@ -120,44 +133,66 @@ for key, val in links_dict.items():
     mens_section = mens[0]
     men_rounds = mens_section.find_elements(By.CSS_SELECTOR, "a.cr-nav-button")
 
-    # Finds and clicks the finals round 
     start_time = time.time()
     men_finals = None
-    for r in men_rounds:
-        if 'F' in r.text.strip():   # or use 'Final' if text says 'Finals'
-            men_finals = r
-            break
-        if time.time() - start_time > 10:
-            break
+    num_rounds = len(men_rounds)
 
-    if men_finals:
-        driver.execute_script("arguments[0].scrollIntoView(true);", men_finals)
-        driver.execute_script("arguments[0].click();", men_finals)
-    else:
-        continue
-
-    time.sleep(1)  # gives the table a moment to load
+    for i in range(num_rounds):
+        try:
+            # Re-find all round buttons on each loop
+            men_rounds = WebDriverWait(driver, 5).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.cr-nav-button"))
+            )
+            if i >= len(men_rounds):
+                break  
     
-    # Gathers the table data containing all finalists
-    table = WebDriverWait(driver, 10).until(
-        EC.visibility_of_all_elements_located((By.CSS_SELECTOR, "table"))
-    )
-    mens_table = table[0]
-    finalists = mens_table.find_elements(By.CSS_SELECTOR, "tr")
+            r = men_rounds[i]
+            round_name = r.text.strip()
     
-    # Gathers the data for all the finalists of a competition
-    for finalist in finalists:
-        stats = finalist.find_elements(By.CSS_SELECTOR, "td")
-        rank = stats[0].text.strip()
-        name = stats[1].text.strip()
-        parts = name.split(" ")
-        full_name = " ".join(parts[:-3]).title()
-        result = stats[2].text.strip()
-        climber = {"Year": comp_year, "Competition": comp_name, "Rank": rank, "Name": full_name, "Result": result}
-        df.append(climber)
-    driver.back()
-    driver.back()
+            # Decide which list to store in
+            match_key = next((k for k in desired_rounds.keys() if k in round_name), None)
+            if not match_key:
+                continue
+            target_list = desired_rounds[match_key]
+    
+            # Click the corresponding round button
+            driver.execute_script("arguments[0].scrollIntoView(true);", r)
+            driver.execute_script("arguments[0].click();", r)
+            time.sleep(1)
+    
+            # Gets the table 
+            table = WebDriverWait(driver, 10).until(
+                EC.visibility_of_all_elements_located((By.CSS_SELECTOR, "table"))
+            )[0]
+            participants = table.find_elements(By.CSS_SELECTOR, "tr")
 
-# Converts the list into a dataframe and creates a csv file
-df = pd.DataFrame(df)
-df.to_csv("IFSC_WC_Mens_Finals", index=True)
+            # extract each athlete from the table and get their data
+            for participant in participants:
+                stats = participant.find_elements(By.CSS_SELECTOR, "td")
+                if len(stats) < 3:
+                    continue
+                rank = stats[0].text.strip()
+                name = stats[1].text.strip()
+                full_name = " ".join(name.split(" ")[:-3]).title()
+                result = stats[2].text.strip()
+                climber = {
+                    "Year": comp_year,
+                    "Competition": comp_name,
+                    "Round": round_name,
+                    "Rank": rank,
+                    "Name": full_name,
+                    "Result": result
+                }
+                target_list.append(climber)
+    
+        except StaleElementReferenceException:
+            continue
+    
+
+# Converts the three lists into dataframes and creates a csv file for each one
+qualifications_csv = pd.DataFrame(qualifications)
+qualifications_csv.to_csv("IFSC_WC_Mens_Qualifications.csv", index=True)
+semis_csv = pd.DataFrame(semis)
+semis_csv.to_csv("IFSC_WC_Mens_Semis.csv", index=True)
+finals_csv = pd.DataFrame(finals)
+finals_csv.to_csv("IFSC_WC_Mens_Finals.csv", index=True)  
